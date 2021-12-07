@@ -36,6 +36,8 @@ List your routes in a table
 ## Wireframe
 
 <img width="400px" src="img1.png" />
+<br/>
+<img width="400px" src="img2.png" />
 
 ## Components
 
